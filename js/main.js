@@ -18,14 +18,16 @@ function palindrome(str){
     if(reversed === str){
 
         return true;
+        console.log("La parola è palindroma")
 
     }else{
 
         return false;
-    }
+        console.log("La parola non è palindroma")
+    }   
 
 
 }
 
-let controlloPalindromo = palindrome("eye");
+let controlloPalindromo = palindrome("deye");
 console.log(controlloPalindromo);
