@@ -1,16 +1,3 @@
-/*const request = prompt("Pari o Dispari?");
-
-
-
-"use strict"
-
-/**
- * @param {number} num
- * @return {string}
- */
-
-/*function()*/
-
 
 const giocaBtn = document.getElementById("btn-play");
 
