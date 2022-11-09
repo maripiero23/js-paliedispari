@@ -34,6 +34,21 @@ function getPariDispari(num){
 }
 
 
+//Creo l'evento per verificare chi tra PC e Utente ha vinto
+
+const myTextEl = document.getElementById("my-text");
+const resultEljs = document.querySelector(".resultjs");
+
+
+
+
+
+
+
+
+
+
+
 
 
 
